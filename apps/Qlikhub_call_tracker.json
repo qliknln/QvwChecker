@@ -1,0 +1,9 @@
+{
+	"pageUrl": "https://pub.qliktech.com/QvAJAXZfc/opendoc.htm?document=marketing%5Cqlikhub%20call%20tracker.qvw&lang=en-US&host=AccessPoint%20Documents",
+    "elementWait":600,
+    "title":"Qlikhub call tracker",
+    "hasSheetObjects":true,
+    "hasTabs": true,
+	"enabled":true,
+	"group":"_Test"
+}

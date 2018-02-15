@@ -1,0 +1,9 @@
+{
+    "pageUrl": "https://pubtest.qliktech.com/QvAJAXZfc/opendoc.htm?document=financials%5Cfinance%20analytics.qvw&lang=en-US&host=Test%20QVS1",
+    "elementWait":120,
+    "title":"Finance analytics",
+    "hasSheetObjects":true,
+    "hasTabs": true,
+    "enabled":true,
+	"group":"_Finance"
+}

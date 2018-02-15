@@ -1,0 +1,9 @@
+{
+	"pageUrl": "https://pub.qliktech.com/QvAJAXZfc/opendoc.htm?document=marketing%5Ccampaign%20analysis.qvw&lang=en-US&host=AccessPoint%20Documents",
+    "elementWait":300,
+    "title":"Campaign Analysis",
+    "hasSheetObjects":true,
+    "hasTabs": true,
+	"enabled":true,
+	"group":"_wlc"
+}

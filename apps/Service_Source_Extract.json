@@ -1,0 +1,9 @@
+{
+	"pageUrl": "https://pubtest.qliktech.com/QvAJAXZfc/opendoc.htm?document=financials%5Cservicesource%20extract.qvw&lang=en-US&host=Test%20QVS1",
+	"elementWait":120,
+	"title":"service source extract",
+	"hasSheetObjects": true,
+	"hasTabs": false,
+	"enabled":true,
+	"group":"_Finance"
+}

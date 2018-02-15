@@ -1,0 +1,9 @@
+{
+	"pageUrl": "https://pub.qliktech.com/QvAJAXZfc/opendoc.htm?document=financials%5Cvsoe%20revenue%20recognition.qvw&lang=en-US&host=AccessPoint%20Documents",
+	"elementWait":180,
+	"title":"VSOE",
+	"hasSheetObjects":true,
+	"hasTabs": true,
+	"enabled":true,
+	"group":"Test"
+}

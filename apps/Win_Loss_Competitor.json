@@ -1,0 +1,9 @@
+{
+	"pageUrl": "https://pub.qliktech.com/QvAJAXZfc/opendoc.htm?document=sales%5Cwin%20loss%20competitor%20app.qvw&lang=en-US&host=AccessPoint%20Documents",
+    "elementWait":300,
+    "title":"Win loss competitor",
+    "hasSheetObjects":true,
+    "hasTabs": true,
+	"enabled":true,
+	"group":"wlc"
+}

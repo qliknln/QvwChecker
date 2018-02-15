@@ -1,0 +1,9 @@
+{
+    "pageUrl": "https://pubtest.qliktech.com/QvAJAXZfc/opendoc.htm?document=financials%5Ctransactions.qvw&lang=en-US&host=Test%20QVS1",
+    "elementWait":120,
+    "title":"Transactions",
+    "hasSheetObjects":true,
+    "hasTabs": true,
+    "enabled":true,
+	"group":"_Finance"
+}

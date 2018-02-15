@@ -1,0 +1,9 @@
+{
+	"pageUrl": "https://pub.qliktech.com/QvAJAXZfc/opendoc.htm?document=marketing%5Cmarketing%20360.qvw&lang=en-US&host=AccessPoint%20Documents",
+    "elementWait":600,
+    "title":"Marketing360",
+    "hasSheetObjects":true,
+    "hasTabs": true,
+	"enabled":true,
+	"group":"_Test"
+}

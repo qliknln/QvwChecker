@@ -1,0 +1,9 @@
+{
+	"pageUrl": "https://pubtest.qliktech.com/QvAJAXZfc/opendoc.htm?document=itsystems%5Caccesspoint%20encyclopaedia.qvw&lang=en-US&host=Test%20QVS1",
+    "elementWait":60,
+    "title":"AccessPoint Encyclopedia",
+    "hasSheetObjects":true,
+    "hasTabs": true,
+	"enabled":true,
+	"group":"_ITSystems"
+}

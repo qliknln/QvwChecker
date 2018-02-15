@@ -1,0 +1,9 @@
+{
+	"pageUrl": "https://pubtest.qliktech.com/QvAJAXZfc/opendoc.htm?document=financials%5Cbudget%20planning.qvw&lang=en-US&host=Test%20QVS1",
+	"elementWait":60,
+	"title":"Budget planning",
+	"hasSheetObjects":true,
+	"hasTabs": false,
+	"enabled":true,
+	"group":"_Finance"
+}

@@ -1,0 +1,9 @@
+{
+	"pageUrl": "https://pub.qliktech.com/QvAJAXZfc/AccessPoint.aspx?open=&id=AccessPoint Documents%7CFinancials%2FGlobal Currency Rates.qvw&lang=en-US&client=Ajax",
+	"elementWait":180,
+	"title":"Global_Currency_Rates",
+	"hasSheetObjects":true,
+	"hasTabs": false,
+	"enabled":true,
+	"group":"_Finance"
+}

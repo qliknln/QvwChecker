@@ -1,0 +1,9 @@
+{
+	"pageUrl": "https://pub.qliktech.com/QvAJAXZfc/opendoc.htm?document=sales%5Cland%20expand%20power%20play.qvw&lang=en-US&host=AccessPoint%20Documents",
+    "elementWait":300,
+    "title":"Land and expand power play",
+    "hasSheetObjects":true,
+    "hasTabs": true,
+	"enabled":true,
+	"group":"_Sales"
+}

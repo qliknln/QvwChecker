@@ -1,0 +1,9 @@
+{
+  "pageUrl": "https://pubtest.qliktech.com/QvAJAXZfc/opendoc.htm?document=services%5Cconsulting%20services%20-%20.qvw&lang=en-US&host=Test%20QVS1",
+  "elementWait":60,
+  "title":"Consulting Services",
+  "hasSheetObjects":true,
+  "hasTabs": true,
+  "enabled":true,
+  "group":"_services"
+}

@@ -1,0 +1,22 @@
+{
+  "SUCCESS":{
+    "0":"Empty sheet(s) returned ok"
+
+  },
+  "WARNING":{
+    "10": "Test disabled. "
+  },
+  "ERROR":{
+    "110": "Failed to launch browser. Check Chrome on test system.",
+    "111": "Failed to access tabrow. Another web page element was disabling it, possibly the Reconnecting dialog. ",
+    "112": "Failed to click next tab. It was most likely the Reconnecting dialog that showed up. This error may not occurr when tested manually. ",
+    "113": "Failed to check sheet",
+    "114": "Failed to check sheet",
+    "115": "Tabrow not loaded properly",
+    "116": "Tabrow not loaded properly",
+    "117": "MainContainer for first sheet not loaded properly (Potential false positive)",
+    "118": "No objects found. The checked sheet was empty.",
+    "119": "Failed to activate tab",
+    "120": "Session lost!"
+  }
+}
